@@ -1,1 +1,2 @@
 # Excel-for-Data-Analytics
+This repository serves as a collection of assignments, projects, exercises, and other learning materials related to data analytics using Microsoft Excel. It showcases the practical application of Excel's tools and features for data cleaning, data organization, analysis, visualization, and reporting. The repository aims to document my learning journey, demonstrate my analytical skills, and highlight my ability to transform raw data into meaningful insights that support data-driven decision-making.
